@@ -1,0 +1,28 @@
+.save-ico { 
+	background-image: url(images/icons/disk.png);
+}
+.cancel-ico { 
+	background-image: url(images/icons/cancel.png);
+}
+.new-ico { 
+	background-image: url(images/icons/add.png);
+}
+.edit-ico { 
+	background-image: url(images/icons/pencil.png);
+}
+.delete-ico { 
+	background-image: url(images/icons/delete.png);
+}
+.select-ico { 
+	background-image: url(images/icons/hand_point.png);
+}
+
+.x-tree-node-expanded .x-tree-node-icon {
+	background-image: url(images/icons/folder.png);
+}
+.x-tree-node-collapsed .x-tree-node-icon {
+	background-image: url(images/icons/folder.png);
+}
+.x-tree-node-leaf .x-tree-node-icon { 
+	background-image: url(images/icons/page.png);
+}
